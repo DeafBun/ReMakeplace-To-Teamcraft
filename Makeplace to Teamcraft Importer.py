@@ -34,7 +34,8 @@ def choose_file():
 ## FILE AND URL
 mpFile = choose_file()
 print("")
-while open(mpFile) as file:
+print(mpFile)
+with open(mpFile, mode='r') as file:
     data = json.load(file)
 
 url = "https://ffxivteamcraft.com/import/"
