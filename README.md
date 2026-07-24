@@ -1,6 +1,12 @@
 # DEPRECATED!!! Re:Makeplace-To-Teamcraft DEPRECATED!!!
 
-IM MAKING A WEBSITE THAT DOES THIS INSTEAD BECAUSE I AM NOT DEVELOPING FOR BOTH WINDOWS AND LINUX!!!!! YOU CAN STILL USE THIS UNTIL I GET THE WEBSITE WORKING!!!!
+https://deafbun.github.io/xivcowtools/
+https://deafbun.github.io/xivcowtools/
+https://deafbun.github.io/xivcowtools/
+https://deafbun.github.io/xivcowtools/
+https://deafbun.github.io/xivcowtools/
+
+GO THERE ^^^ ITS MUCH BETTER AND ON THE WEB!!!
 
 v0.7.2
 
